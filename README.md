@@ -1,7 +1,7 @@
 # Phase4project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
-##For details about the project open the word file 'Phase 4 Project.docx'
+For details about the project open the word file 'Phase 4 Project.docx'
 
 ## Development server
 
