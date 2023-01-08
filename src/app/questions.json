@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "question":"On June 21, the Sun is vertically overhead the following..?",
+        "A":"Tropic of Cancr",
+        "B":"Tropic of Capricorn",
+        "C":"Equator",
+        "D":"None of the above"
+    },
+    {
+         "id":2,
+        "question":"Great Britain comprises the England, Wales , Scotland & Northern Ireland. How much area of the entire UK is covered by England?",
+        "A":"40%",
+        "B":"50%",
+        "C":"60%",
+        "D":"70%"
+    },
+    {
+        "id":3,
+       "question":"Which of the following two countries have largest electrified railway network in the world?",
+       "A":"Russia & US",
+       "B":"US & China",
+       "C":"Russia & China",
+       "D":"India & US"
+   },
+   {
+    "id":4,
+   "question":"What is the total number of British overseas territories?",
+   "A":"10",
+   "B":"12",
+   "C":"14",
+   "D":"16"
+},
+{
+    "id":5,
+   "question":"Which of the following archipelago comprises the Commonwealth of the Bahamas and the British Territory of the Turks and Caicos Islands?",
+   "A":"British Isles",
+   "B":"Korean Peninsula",
+   "C":"Lucayan Archipelago",
+   "D":"Ha Long Bay"
+}
+
+]
